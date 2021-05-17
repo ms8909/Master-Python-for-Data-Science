@@ -6,23 +6,40 @@
 
 # Command Prompt
 
-To create a new folder
+### To create a new folder
 mkdir foldername
 
-To change folder
+### To change folder
 cd foldername
 
-To go back in the folder
+### To go back in the folder
 cd ../
 
-To view subfolders and files in the current folder
+### To view subfolders and files in the current folder
 dir OR ls (MAC OS)
 
 
 # Git Commands
 
-To clone a repo
-git clone repo-link
+### To clone a repo
+git clone REPO-LINK
+
+### To check all branches
+git branch
+
+### To check our current branch
+git branch
+
+### To create a new branch
+git checkout -b BRANCH-NAME
+
+### To switch to another branch
+git checkout BRANCH-NAME
+
+### To push the new code on Github
+## git add .
+## git commit -m "ADD YOUR MESSAGE"
+## git push origin BRANCH-NAME
 
 
 
