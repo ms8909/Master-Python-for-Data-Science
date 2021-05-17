@@ -36,10 +36,10 @@ git checkout -b BRANCH-NAME
 ### To switch to another branch
 git checkout BRANCH-NAME
 
-### To push the new code on Github
-## git add .
-## git commit -m "ADD YOUR MESSAGE"
-## git push origin BRANCH-NAME
+## To push the new code on Github
+### git add .
+### git commit -m "ADD YOUR MESSAGE"
+### git push origin BRANCH-NAME
 
 
 
