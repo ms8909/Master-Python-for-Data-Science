@@ -1,6 +1,7 @@
 # Python-Batch3
 
-2. May 2017 Questions Online link: https://docs.google.com/document/d/1i0UXuJuymoZ1z30jYOgTw5Y7vxftNKld-GboqI1jpds/edit
+2. May 17 Questions Online link: https://docs.google.com/document/d/1i0UXuJuymoZ1z30jYOgTw5Y7vxftNKld-GboqI1jpds/edit
+3. May 19 Questions Online link: https://docs.google.com/document/d/1hVMeyFw-UukbRsAyXDAruxViC1J14ZB_yok5GS6WfPI/edit
 
 
 
