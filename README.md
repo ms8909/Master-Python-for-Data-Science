@@ -8,13 +8,24 @@
 # Command Prompt
 
 ### To create a new folder
+
+
+```sh
 mkdir foldername
+```
 
 ### To change folder
+
+```sh
 cd foldername
+```
+
 
 ### To go back in the folder
+```sh
 cd ../
+```
+
 
 ### To view subfolders and files in the current folder
 dir OR ls (MAC OS)
