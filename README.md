@@ -73,7 +73,11 @@ git checkout BRANCH-NAME
 ```
 
 
-## To push the new code on Github
+## To push your code on Github in your branch
+```sh
+git checkout BRANCH-NAME
+```
+
 ```sh
 git add .
 ```
