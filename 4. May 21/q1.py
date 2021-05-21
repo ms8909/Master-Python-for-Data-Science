@@ -21,12 +21,14 @@ def collatzConjecture(num):
                     collatzChain.append(num)
             
             chainLen = len(collatzChain)
+            collatzChain.reverse()
 
-            # Printig the chain in format will be done later
-            # print(f"Collatz Chain : ")
-            # while chainLen >= 0:
-            #     print(f" {collatzChain}")
-            print(f"Collatz Chain : {collatzChain}")
+            print(f"Collatz Chain : ", end="")
+
+            for i in range(chainLen):
+                print(f"{collatzChain.pop()} - ", end="")
+
+            print("\r")
             print(f"Chain Length is : {chainLen} ")
 
 # Main code
