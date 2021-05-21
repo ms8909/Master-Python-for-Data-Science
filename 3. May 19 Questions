@@ -1,0 +1,524 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: https://docs.google.com/document/u/0/d/1hVMeyFw-UukbRsAyXDAruxViC1J14ZB_yok5GS6WfPI/mobilebasic
+Subject: 3. May 19 Questions
+Date: Wed, 19 May 2021 16:05:39 -0000
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--ieWRaGbFjvWn4NGm3n6ehHDa1Fm9PuiUsTKBuKGjuN----"
+
+
+------MultipartBoundary--ieWRaGbFjvWn4NGm3n6ehHDa1Fm9PuiUsTKBuKGjuN----
+Content-Type: text/html
+Content-ID: <frame-4083BEF4E676C05E786E7A3588B29F18@mhtml.blink>
+Content-Transfer-Encoding: binary
+Content-Location: https://docs.google.com/document/u/0/d/1hVMeyFw-UukbRsAyXDAruxViC1J14ZB_yok5GS6WfPI/mobilebasic
+
+<!DOCTYPE html><html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><link rel="stylesheet" type="text/css" href="cid:css-4f40f48e-d53d-43f6-9f3b-1957857756f3@mhtml.blink" /><link rel="stylesheet" type="text/css" href="cid:css-2040b79f-a821-41d6-93c3-6973b864f526@mhtml.blink" /><link rel="stylesheet" type="text/css" href="cid:css-a5432606-c3fb-4493-950f-69306ef7dc70@mhtml.blink" /><title>3. May 19 Questions</title><link rel="shortcut icon" href="https://ssl.gstatic.com/docs/documents/images/kix-favicon7.ico"><meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,minimum-scale=1,user-scalable=0"><meta name="referrer" content="strict-origin-when-cross-origin"></head><body><div id="docs-ml-header-id" class="docs-ml-header"><span class="docs-ml-header-item docs-ml-header-drive-link"><div id="docs-ml-header-drive-link-aria-label" style="display:none;">Go to Drive</div><a href="https://drive.google.com/u/0?usp=docs_web" aria-labelledby="docs-ml-header-drive-link-aria-label" role="button"><div class="docs-ml-header-icon-container"><div class="docs-ml-icon docs-ml-header-icon docs-ml-arrow-back-dir"><div class="docs-ml-img-container docs-ml-img docs-ml-arrow-back-icon"></div></div></div></a></span><span class="docs-ml-header-item docs-ml-header-document-title"><div class="docs-ml-header-document-title-text">3. May 19 Questions</div></span></div><div class="app-container"><div class="doc-container"><div class="doc"><div style="background-color:#ffffff;padding:72pt 72pt 72pt 72pt;max-width:468pt"><p style="padding:0;margin:0;color:#000000;font-size:11pt;font-family:&quot;Arial&quot;;line-height:1.15;orphans:2;widows:2;text-align:center"><span style="color:#000000;font-weight:700;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">Note: Please don't edit this doc</span></p><p style="padding:0;margin:0;color:#000000;font-size:11pt;font-family:&quot;Arial&quot;;line-height:1.15;orphans:2;widows:2;height:11pt;text-align:left"><span style="color:#000000;font-weight:700;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal"></span></p><p style="padding:0;margin:0;color:#000000;font-size:11pt;font-family:&quot;Arial&quot;;line-height:1.15;orphans:2;widows:2;height:11pt;text-align:left"><span style="color:#000000;font-weight:700;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal"></span></p><p style="padding:0;margin:0;color:#000000;font-size:11pt;font-family:&quot;Arial&quot;;line-height:1.15;orphans:2;widows:2;height:11pt;text-align:left"><span style="color:#000000;font-weight:700;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal"></span></p><p style="padding:0;margin:0;color:#000000;font-size:11pt;font-family:&quot;Arial&quot;;line-height:1.15;orphans:2;widows:2;text-align:left"><span style="font-weight:700">Question 1</span><span>: </span><span style="color:#000000;font-weight:700;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">Calculate Factorial</span></p><p style="padding:0;margin:0;color:#000000;font-size:11pt;font-family:&quot;Arial&quot;;line-height:1.15;orphans:2;widows:2;height:11pt;text-align:left"><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal"></span></p><p style="padding:0;margin:0;color:#000000;font-size:11pt;font-family:&quot;Arial&quot;;line-height:1.15;orphans:2;widows:2;text-align:left"><span style="background-color:#ffffff;color:#121212;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:12pt;font-family:&quot;Arial&quot;;font-style:normal">Factorial of any number n is represented by n! and is equal to 1*2*3*....*(n-1)*n. E.g.-</span></p><p style="padding:0;margin:0;color:#000000;font-size:11pt;font-family:&quot;Arial&quot;;line-height:1.15;orphans:2;widows:2;text-align:left"><span style="background-color:#ffffff;color:#121212;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:12pt;font-family:&quot;Arial&quot;;font-style:normal">4! = 1*2*3*4 = 24</span></p><p style="padding:0;margin:0;color:#000000;font-size:11pt;font-family:&quot;Arial&quot;;line-height:1.15;orphans:2;widows:2;text-align:left"><span style="background-color:#ffffff;color:#121212;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:12pt;font-family:&quot;Arial&quot;;font-style:normal">3! = 3*2*1 = 6</span></p><p style="padding:0;margin:0;color:#000000;font-size:11pt;font-family:&quot;Arial&quot;;line-height:1.15;orphans:2;widows:2;text-align:left"><span style="background-color:#ffffff;color:#121212;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:12pt;font-family:&quot;Arial&quot;;font-style:normal">2! = 2*1 = 2</span></p><p style="padding:0;margin:0;color:#000000;font-size:11pt;font-family:&quot;Arial&quot;;line-height:1.15;orphans:2;widows:2;text-align:left"><span style="background-color:#ffffff;color:#121212;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:12pt;font-family:&quot;Arial&quot;;font-style:normal">Also,</span></p><p style="padding:0;margin:0;color:#000000;font-size:11pt;font-family:&quot;Arial&quot;;line-height:1.15;orphans:2;widows:2;text-align:left"><span style="background-color:#ffffff;color:#121212;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:12pt;font-family:&quot;Arial&quot;;font-style:normal">1! = 1</span></p><p style="padding:0;margin:0;color:#000000;font-size:11pt;font-family:&quot;Arial&quot;;line-height:1.15;orphans:2;widows:2;text-align:left"><span style="background-color:#ffffff;color:#121212;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:12pt;font-family:&quot;Arial&quot;;font-style:normal">0! = 1</span></p><p style="padding:0;margin:0;color:#000000;font-size:11pt;font-family:&quot;Arial&quot;;line-height:1.15;orphans:2;widows:2;height:11pt;text-align:left"><span style="background-color:#ffffff;color:#121212;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:12pt;font-family:&quot;Arial&quot;;font-style:normal"></span></p><p style="padding:0;margin:0;color:#000000;font-size:11pt;font-family:&quot;Arial&quot;;line-height:1.15;orphans:2;widows:2;height:11pt;text-align:left"><span style="background-color:#ffffff;color:#121212;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:12pt;font-family:&quot;Arial&quot;;font-style:normal"></span></p><p style="padding:0;margin:0;color:#000000;font-size:11pt;font-family:&quot;Arial&quot;;line-height:1.15;orphans:2;widows:2;text-align:left"><span style="background-color:#ffffff;color:#121212;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:12pt;font-family:&quot;Arial&quot;;font-style:normal">Write a program to calculate the factorial of a number.</span></p><p style="padding:0;margin:0;color:#000000;font-size:11pt;font-family:&quot;Arial&quot;;line-height:1.15;orphans:2;widows:2;height:11pt;text-align:left"><span style="background-color:#ffffff;color:#121212;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:12pt;font-family:&quot;Arial&quot;;font-style:normal"></span></p><p style="padding:0;margin:0;color:#000000;font-size:11pt;font-family:&quot;Arial&quot;;line-height:1.15;orphans:2;widows:2;height:11pt;text-align:left"><span style="background-color:#ffffff;color:#121212;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:12pt;font-family:&quot;Arial&quot;;font-style:normal"></span></p><p style="padding:0;margin:0;color:#000000;font-size:11pt;font-family:&quot;Arial&quot;;line-height:1.15;orphans:2;widows:2;height:11pt;text-align:left"><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal"></span></p><p style="padding:0;margin:0;color:#000000;font-size:11pt;font-family:&quot;Arial&quot;;line-height:1.15;orphans:2;widows:2;height:11pt;text-align:left"><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal"></span></p><p style="padding:0;margin:0;color:#000000;font-size:11pt;font-family:&quot;Arial&quot;;line-height:1.15;orphans:2;widows:2;height:11pt;text-align:left"><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal"></span></p><p style="padding:0;margin:0;color:#000000;font-size:11pt;font-family:&quot;Arial&quot;;line-height:1.15;orphans:2;widows:2;height:11pt;text-align:left"><span style="color:#000000;font-weight:700;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal"></span></p><p style="padding:0;margin:0;color:#000000;font-size:11pt;font-family:&quot;Arial&quot;;line-height:1.15;orphans:2;widows:2;text-align:left"><span style="color:#000000;font-weight:700;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">Question 2: </span></p><p style="padding:0;margin:0;color:#000000;font-size:11pt;font-family:&quot;Arial&quot;;line-height:1.15;orphans:2;widows:2;height:11pt;text-align:left"><span style="color:#000000;font-weight:700;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal"></span></p><p style="padding:0;margin:0;color:#000000;font-size:11pt;font-family:&quot;Arial&quot;;line-height:1.15;orphans:2;widows:2;text-align:left"><span style="background-color:#ffffff;color:#121212;font-weight:700;text-decoration:none;vertical-align:baseline;font-size:12pt;font-family:&quot;Arial&quot;;font-style:normal">Print the following patterns using loop :</span></p><p style="padding:0;margin:0;color:#000000;font-size:11pt;font-family:&quot;Arial&quot;;line-height:1.15;orphans:2;widows:2;text-align:left"><span style="background-color:#ffffff;color:#121212;font-weight:700;text-decoration:none;vertical-align:baseline;font-size:12pt;font-family:&quot;Arial&quot;;font-style:normal">a.</span></p><p style="padding:0;margin:0;color:#000000;font-size:11pt;font-family:&quot;Arial&quot;;line-height:1.15;orphans:2;widows:2;text-align:left"><span style="background-color:#ffffff;color:#121212;font-weight:700;text-decoration:none;vertical-align:baseline;font-size:12pt;font-family:&quot;Arial&quot;;font-style:normal">*</span></p><p style="padding:0;margin:0;color:#000000;font-size:11pt;font-family:&quot;Arial&quot;;line-height:1.15;orphans:2;widows:2;text-align:left"><span style="background-color:#ffffff;color:#121212;font-weight:700;text-decoration:none;vertical-align:baseline;font-size:12pt;font-family:&quot;Arial&quot;;font-style:normal">**</span></p><p style="padding:0;margin:0;color:#000000;font-size:11pt;font-family:&quot;Arial&quot;;line-height:1.15;orphans:2;widows:2;text-align:left"><span style="background-color:#ffffff;color:#121212;font-weight:700;text-decoration:none;vertical-align:baseline;font-size:12pt;font-family:&quot;Arial&quot;;font-style:normal">***</span></p><p style="padding:0;margin:0;color:#000000;font-size:11pt;font-family:&quot;Arial&quot;;line-height:1.15;orphans:2;widows:2;text-align:left"><span style="background-color:#ffffff;color:#121212;font-weight:700;text-decoration:none;vertical-align:baseline;font-size:12pt;font-family:&quot;Arial&quot;;font-style:normal">****</span></p><p style="padding:0;margin:0;color:#000000;font-size:11pt;font-family:&quot;Arial&quot;;line-height:1.15;orphans:2;widows:2;height:11pt;text-align:left"><span style="background-color:#ffffff;color:#121212;font-weight:700;text-decoration:none;vertical-align:baseline;font-size:12pt;font-family:&quot;Arial&quot;;font-style:normal"></span></p><p style="padding:0;margin:0;color:#000000;font-size:11pt;font-family:&quot;Arial&quot;;line-height:1.15;orphans:2;widows:2;text-align:left"><span style="background-color:#ffffff;color:#121212;font-weight:700;text-decoration:none;vertical-align:baseline;font-size:12pt;font-family:&quot;Arial&quot;;font-style:normal">b.</span></p><p style="padding:0;margin:0;color:#000000;font-size:11pt;font-family:&quot;Arial&quot;;line-height:1.15;orphans:2;widows:2;text-align:left"><span style="background-color:#ffffff;color:#121212;font-weight:700;text-decoration:none;vertical-align:baseline;font-size:12pt;font-family:&quot;Arial&quot;;font-style:normal">&nbsp; &nbsp;* &nbsp;</span></p><p style="padding:0;margin:0;color:#000000;font-size:11pt;font-family:&quot;Arial&quot;;line-height:1.15;orphans:2;widows:2;text-align:left"><span style="background-color:#ffffff;color:#121212;font-weight:700;text-decoration:none;vertical-align:baseline;font-size:12pt;font-family:&quot;Arial&quot;;font-style:normal">&nbsp;*** </span></p><p style="padding:0;margin:0;color:#000000;font-size:11pt;font-family:&quot;Arial&quot;;line-height:1.15;orphans:2;widows:2;text-align:left"><span style="background-color:#ffffff;color:#121212;font-weight:700;text-decoration:none;vertical-align:baseline;font-size:12pt;font-family:&quot;Arial&quot;;font-style:normal">*****</span></p><p style="padding:0;margin:0;color:#000000;font-size:11pt;font-family:&quot;Arial&quot;;line-height:1.15;orphans:2;widows:2;text-align:left"><span style="background-color:#ffffff;color:#121212;font-weight:700;text-decoration:none;vertical-align:baseline;font-size:12pt;font-family:&quot;Arial&quot;;font-style:normal">&nbsp;*** </span></p><p style="padding:0;margin:0;color:#000000;font-size:11pt;font-family:&quot;Arial&quot;;line-height:1.15;orphans:2;widows:2;text-align:left"><span style="background-color:#ffffff;color:#121212;font-weight:700;text-decoration:none;vertical-align:baseline;font-size:12pt;font-family:&quot;Arial&quot;;font-style:normal">&nbsp; &nbsp;* &nbsp;</span></p><p style="padding:0;margin:0;color:#000000;font-size:11pt;font-family:&quot;Arial&quot;;line-height:1.15;orphans:2;widows:2;height:11pt;text-align:left"><span style="background-color:#ffffff;color:#121212;font-weight:700;text-decoration:none;vertical-align:baseline;font-size:12pt;font-family:&quot;Arial&quot;;font-style:normal"></span></p><p style="padding:0;margin:0;color:#000000;font-size:11pt;font-family:&quot;Arial&quot;;line-height:1.15;orphans:2;widows:2;height:11pt;text-align:left"><span style="background-color:#ffffff;color:#121212;font-weight:700;text-decoration:none;vertical-align:baseline;font-size:12pt;font-family:&quot;Arial&quot;;font-style:normal"></span></p><p style="padding:0;margin:0;color:#000000;font-size:11pt;font-family:&quot;Arial&quot;;line-height:1.15;orphans:2;widows:2;height:11pt;text-align:left"><span style="background-color:#ffffff;color:#121212;font-weight:700;text-decoration:none;vertical-align:baseline;font-size:12pt;font-family:&quot;Arial&quot;;font-style:normal"></span></p><p style="padding:0;margin:0;color:#000000;font-size:11pt;font-family:&quot;Arial&quot;;line-height:1.15;orphans:2;widows:2;height:11pt;text-align:left"><span style="background-color:#ffffff;color:#121212;font-weight:700;text-decoration:none;vertical-align:baseline;font-size:12pt;font-family:&quot;Arial&quot;;font-style:normal"></span></p><p style="padding:0;margin:0;color:#000000;font-size:11pt;font-family:&quot;Arial&quot;;line-height:1.15;orphans:2;widows:2;text-align:left"><span style="background-color:#ffffff;color:#121212;font-weight:700;text-decoration:none;vertical-align:baseline;font-size:12pt;font-family:&quot;Arial&quot;;font-style:normal">c.</span></p><p style="padding:0;margin:0;color:#000000;font-size:11pt;font-family:&quot;Arial&quot;;line-height:1.15;orphans:2;widows:2;text-align:left"><span style="background-color:#ffffff;color:#121212;font-weight:700;text-decoration:none;vertical-align:baseline;font-size:12pt;font-family:&quot;Arial&quot;;font-style:normal">1010101</span></p><p style="padding:0;margin:0;color:#000000;font-size:11pt;font-family:&quot;Arial&quot;;line-height:1.15;orphans:2;widows:2;text-align:left"><span style="background-color:#ffffff;color:#121212;font-weight:700;text-decoration:none;vertical-align:baseline;font-size:12pt;font-family:&quot;Arial&quot;;font-style:normal">&nbsp;10101 </span></p><p style="padding:0;margin:0;color:#000000;font-size:11pt;font-family:&quot;Arial&quot;;line-height:1.15;orphans:2;widows:2;text-align:left"><span style="background-color:#ffffff;color:#121212;font-weight:700;text-decoration:none;vertical-align:baseline;font-size:12pt;font-family:&quot;Arial&quot;;font-style:normal">&nbsp; 101 &nbsp;</span></p><p style="padding:0;margin:0;color:#000000;font-size:11pt;font-family:&quot;Arial&quot;;line-height:1.15;orphans:2;widows:2;text-align:left"><span style="background-color:#ffffff;font-size:12pt;color:#121212;font-weight:700">&nbsp; &nbsp;1 &nbsp; </span></p><p style="padding:0;margin:0;color:#000000;font-size:11pt;font-family:&quot;Arial&quot;;line-height:1.15;orphans:2;widows:2;height:11pt;text-align:left"><span style="color:#000000;font-weight:700;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal"></span></p><p style="padding:0;margin:0;color:#000000;font-size:11pt;font-family:&quot;Arial&quot;;line-height:1.15;orphans:2;widows:2;height:11pt;text-align:left"><span style="color:#000000;font-weight:700;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal"></span></p><p style="padding:0;margin:0;color:#000000;font-size:11pt;font-family:&quot;Arial&quot;;line-height:1.15;orphans:2;widows:2;height:11pt;text-align:left"><span style="color:#000000;font-weight:700;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal"></span></p><p style="padding:0;margin:0;color:#000000;font-size:11pt;font-family:&quot;Arial&quot;;line-height:1.15;orphans:2;widows:2;text-align:left"><span style="color:#000000;font-weight:700;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">Question 3: Calculate the average</span></p><p style="padding:0;margin:0;color:#000000;font-size:11pt;font-family:&quot;Arial&quot;;line-height:1.15;orphans:2;widows:2;height:11pt;text-align:left"><span style="color:#000000;font-weight:700;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal"></span></p><p style="padding:0;margin:0;color:#000000;font-size:11pt;font-family:&quot;Arial&quot;;line-height:1.15;orphans:2;widows:2;text-align:left"><span>Write a program that takes</span><span style="background-color:#ffffff;font-size:12pt;color:#121212">&nbsp;integer inputs from the user until he/she presses q ( Ask to press q to quit after every integer input ). Print average and product of all numbers.</span></p><p style="padding:0;margin:0;color:#000000;font-size:11pt;font-family:&quot;Arial&quot;;line-height:1.15;orphans:2;widows:2;height:11pt;text-align:left"><span style="color:#000000;font-weight:700;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal"></span></p><p style="padding:0;margin:0;color:#000000;font-size:11pt;font-family:&quot;Arial&quot;;line-height:1.15;orphans:2;widows:2;height:11pt;text-align:left"><span style="color:#000000;font-weight:700;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal"></span></p><p style="padding:0;margin:0;color:#000000;font-size:11pt;font-family:&quot;Arial&quot;;line-height:1.15;orphans:2;widows:2;height:11pt;text-align:left"><span style="color:#000000;font-weight:700;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal"></span></p><p style="padding:0;margin:0;color:#000000;font-size:11pt;font-family:&quot;Arial&quot;;line-height:1.15;orphans:2;widows:2;text-align:left"><span style="color:#000000;font-weight:700;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">Question 4: Calculate the average</span></p><p style="padding:0;margin:0;color:#000000;font-size:11pt;font-family:&quot;Arial&quot;;line-height:1.15;orphans:2;widows:2;height:11pt;text-align:left"><span style="color:#000000;font-weight:700;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal"></span></p><p style="padding:0;margin:0;color:#000000;font-size:11pt;font-family:&quot;Arial&quot;;line-height:1.15;orphans:2;widows:2;text-align:left"><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">Write a program that calculates the average of all elements in the following array/list</span></p><p style="padding:0;margin:0;color:#000000;font-size:11pt;font-family:&quot;Arial&quot;;line-height:1.15;orphans:2;widows:2;height:11pt;text-align:left"><span style="color:#000000;font-weight:700;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal"></span></p><p style="padding:0;margin:0;color:#000000;font-size:11pt;font-family:&quot;Arial&quot;;line-height:1.15;orphans:2;widows:2;text-align:center"><span style="color:#000000;font-weight:700;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal">my_list= [1,22,32,12,55,88,76,54,2,1,22,33,44,5,6,6,7,5,0]</span></p><p style="padding:0;margin:0;color:#000000;font-size:11pt;font-family:&quot;Arial&quot;;line-height:1.15;orphans:2;widows:2;height:11pt;text-align:left"><span style="color:#000000;font-weight:700;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:&quot;Arial&quot;;font-style:normal"></span></p></div></div></div></div></body></html>
+------MultipartBoundary--ieWRaGbFjvWn4NGm3n6ehHDa1Fm9PuiUsTKBuKGjuN----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: cid:css-4f40f48e-d53d-43f6-9f3b-1957857756f3@mhtml.blink
+
+@charset "utf-8";
+
+html { overflow: auto; }
+
+body { margin: 0px; overflow: hidden; overflow-wrap: break-word; }
+
+.app-container { height: 100%; margin-top: 57px; overflow: auto; }
+
+.doc { padding: 20px 12px 0px; position: relative; }
+------MultipartBoundary--ieWRaGbFjvWn4NGm3n6ehHDa1Fm9PuiUsTKBuKGjuN----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: cid:css-2040b79f-a821-41d6-93c3-6973b864f526@mhtml.blink
+
+@charset "utf-8";
+
+.docs-ml-noselect { -webkit-user-drag: none; user-select: none; }
+
+.docs-ml-promotion { z-index: 1002; }
+
+.docs-ml-header { z-index: 1; }
+
+.docs-ml-icon { direction: ltr; display: inline-block; text-align: left; overflow: hidden; position: relative; vertical-align: middle; }
+
+.docs-ml-img::before { content: url("//ssl.gstatic.com/docs/common/mobileweb_sprite1.png"); }
+
+.docs-ml-img-container { height: 156px; position: absolute; width: 36px; }
+
+.docs-ml-docs-logo-icon { left: 0px; top: -36px; }
+
+.docs-ml-sheets-logo-icon { left: 0px; top: 0px; }
+
+.docs-ml-slides-logo-icon { left: 0px; top: -96px; }
+
+.docs-ml-arrow-back-icon { left: 0px; top: -132px; }
+
+.docs-ml-edit-icon { left: 0px; top: -72px; }
+
+@media screen and (-webkit-min-device-pixel-ratio: 2) {
+  .docs-ml-img { content: url("//ssl.gstatic.com/docs/common/mobileweb_sprite1.png"); }
+  .docs-ml-img-container { height: 156px; position: absolute; width: 36px; }
+  .docs-ml-docs-logo-icon { left: 0px; top: -36px; }
+  .docs-ml-sheets-logo-icon { left: 0px; top: 0px; }
+  .docs-ml-slides-logo-icon { left: 0px; top: -96px; }
+  .docs-ml-arrow-back-icon { left: 0px; top: -132px; }
+  .docs-ml-edit-icon { left: 0px; top: -72px; }
+}
+
+.docs-ml-header { background: rgb(250, 250, 250); border-bottom: 1px solid rgb(203, 203, 203); box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 1px; box-sizing: border-box; font-family: Roboto, "Helvetica Neue", Helvetica, Arial, sans-serif; padding: 4px 0px; position: fixed; left: 0px; top: 0px; width: 100%; }
+
+.docs-ml-header-icon { height: 24px; opacity: 0.6; width: 24px; }
+
+.docs-ml-header-icon-container { padding: 12px; }
+
+.docs-ml-header-item { display: inline-block; vertical-align: middle; }
+
+.docs-ml-header-drive-link { padding-left: 4px; }
+
+body[dir="rtl"] .docs-ml-arrow-back-dir { transform: scaleX(-1); }
+
+.docs-ml-header-document-title { box-sizing: border-box; line-height: 24px; padding: 0px 12px; width: calc(100% - 104px); }
+
+.docs-ml-header-document-title-text { font-size: 20px; font-weight: 500; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+
+.docs-ml-header-edit-button { float: right; padding-right: 4px; }
+
+.docs-ml-promotion { background: white; bottom: 0px; box-shadow: rgba(0, 0, 0, 0.4) 0px 4px 12px; font-family: Arial, Helvetica, sans-serif; left: 0px; position: fixed; width: 100%; }
+
+.docs-ml-promotion-off-screen { transform: translateY(100%); }
+
+.docs-ml-promotion-shown { transform: translateY(0px); transition: transform 333ms cubic-bezier(0.4, 0, 0.2, 1) 0s; }
+
+.docs-ml-promotion-dismissed { transform: translateY(100%); box-shadow: none; }
+
+.docs-ml-promotion-no-horizontal-scroll { overflow-x: hidden; }
+
+.docs-ml-promotion-header { display: table; padding: 24px 24px 0px; }
+
+.docs-ml-promotion-app-icon-container { display: table-cell; }
+
+.docs-ml-promotion-app-icon { height: 36px; width: 36px; }
+
+@media (min-width: 600px) {
+  .docs-ml-promotion-app-icon { transform: scale(1.33); }
+}
+
+.docs-ml-promotion-text { display: table-cell; padding-left: 20px; vertical-align: top; }
+
+.docs-ml-promotion-text-heading { color: rgba(0, 0, 0, 0.87); font-size: 16px; font-weight: bold; padding-bottom: 7px; }
+
+.docs-ml-promotion-text-body { color: rgba(0, 0, 0, 0.87); font-size: 14px; }
+
+.docs-ml-promotion-action-row { float: right; margin-top: 6px; padding: 8px 24px; }
+
+.docs-ml-promotion-action-row-desktop { margin-top: 6px; }
+
+.docs-ml-promotion-action-container { display: inline-block; height: 48px; margin: 6px 4px; vertical-align: middle; }
+
+.docs-ml-promotion-action-button { display: inline-block; font-size: 14px; font-weight: 500; padding: 9px 12px; vertical-align: middle; }
+
+.docs-ml-promotion-action-button-wrapper:focus { outline-color: rgb(214, 214, 214); }
+
+.docs-ml-promotion-action-button.docs-ml-promotion-yes-button { background-color: rgb(66, 133, 244); border-radius: 4px; color: rgb(250, 250, 250); border: 1px solid transparent; }
+
+.docs-ml-promotion-action-button.docs-ml-promotion-yes-button:active { background-color: rgb(25, 103, 210); }
+
+.docs-ml-promotion-action-button.docs-ml-promotion-no-button { background-color: rgb(250, 250, 250); color: rgb(95, 99, 104); border-radius: 4px; border: 1px solid rgb(218, 220, 224); }
+
+.docs-ml-promotion-action-button.docs-ml-promotion-no-button:active { background-color: rgb(245, 245, 245); }
+
+.docs-ml-promotion.desktop { text-align: center; }
+
+@media (orientation: portrait) {
+  .docs-ml-promotion.desktop { padding-top: 56px; padding-bottom: 80px; }
+}
+
+@media (orientation: landscape) {
+  .docs-ml-promotion.desktop { padding-top: 36px; padding-bottom: 56px; }
+}
+
+.docs-ml-promotion-heading-desktop { font-family: "Google Sans"; font-size: 18px; font-weight: bold; color: rgb(32, 33, 36); padding-top: 18px; padding-bottom: 10px; line-height: 1.5; max-width: 360px; margin: 0px auto; }
+
+@media (orientation: landscape) {
+  .docs-ml-promotion-heading-desktop { padding-top: 0px; max-width: none; }
+}
+
+.docs-ml-promotion-text-body-desktop { font-size: 14px; line-height: 1.5; color: rgb(95, 99, 104); padding-bottom: 10px; }
+
+.docs-icon.docs-ml-promotion-desktop-icon { height: 40px; width: 40px; transform: scale(2.5); transform-origin: center top; }
+
+.docs-icon-ml-promotion-icon-container-desktop { height: 100px; width: 100px; margin-left: auto; margin-right: auto; }
+
+@media (orientation: landscape) {
+  .docs-icon-ml-promotion-icon-container-desktop { display: inline-block; vertical-align: top; }
+  .docs-ml-promotion-description-desktop { display: inline-block; vertical-align: top; text-align: left; padding-left: 39px; max-width: 645px; }
+}
+
+@media (orientation: landscape) {
+  .docs-ml-promotion-action-row-desktop { margin-left: -8px; }
+}
+
+.docs-ml-promotion-action-row-desktop .docs-ml-promotion-action-container { margin: 6px 8px; font-family: "Google Sans"; }
+
+.docs-ml-promotion-action-row-desktop .docs-ml-promotion-action-button-wrapper:focus { outline: none; }
+
+.docs-ml-promotion-action-button.docs-ml-promotion-yes-button.docs-ml-promotion-app-themed { border-radius: 4px; box-shadow: none; box-sizing: border-box; font-family: "Google Sans", Roboto, RobotoDraft, Helvetica, Arial, sans-serif; font-weight: 500; font-size: 14px; height: 36px; letter-spacing: 0.25px; line-height: 16px; padding: 9px 24px 11px; background: rgb(26, 115, 232); color: rgb(255, 255, 255); border: 1px solid transparent !important; }
+
+.docs-ml-promotion-action-button.docs-ml-promotion-yes-button.docs-ml-promotion-app-themed:active { border-radius: 4px; box-shadow: none; box-sizing: border-box; font-family: "Google Sans", Roboto, RobotoDraft, Helvetica, Arial, sans-serif; font-weight: 500; font-size: 14px; height: 36px; letter-spacing: 0.25px; line-height: 16px; padding: 9px 24px 11px; background: rgb(26, 115, 232); color: rgb(255, 255, 255); border: 1px solid transparent !important; }
+
+.docs-ml-promotion-action-button.docs-ml-promotion-no-button.docs-ml-promotion-app-themed { border-radius: 4px; box-shadow: none; box-sizing: border-box; font-family: "Google Sans", Roboto, RobotoDraft, Helvetica, Arial, sans-serif; font-weight: 500; font-size: 14px; height: 36px; letter-spacing: 0.25px; line-height: 16px; padding: 9px 24px 11px; background: white; color: rgb(26, 115, 232); border: 1px solid rgb(218, 220, 224) !important; }
+
+.docs-ml-promotion-action-button-wrapper:focus .docs-ml-promotion-action-button.docs-ml-promotion-yes-button.docs-ml-promotion-app-themed { border-radius: 4px; box-sizing: border-box; font-family: "Google Sans", Roboto, RobotoDraft, Helvetica, Arial, sans-serif; font-weight: 500; font-size: 14px; height: 36px; letter-spacing: 0.25px; line-height: 16px; padding: 9px 24px 11px; color: rgb(255, 255, 255); background: rgb(80, 148, 237); box-shadow: rgba(66, 133, 244, 0.15) 0px 1px 3px 1px; border: 1px solid transparent !important; }
+
+.docs-ml-promotion-action-button-wrapper:focus .docs-ml-promotion-action-button.docs-ml-promotion-no-button.docs-ml-promotion-app-themed { border-radius: 4px; box-shadow: none; box-sizing: border-box; font-family: "Google Sans", Roboto, RobotoDraft, Helvetica, Arial, sans-serif; font-weight: 500; font-size: 14px; height: 36px; letter-spacing: 0.25px; line-height: 16px; padding: 9px 24px 11px; background: rgb(233, 241, 254); border: 1px solid rgb(193, 216, 251) !important; }
+------MultipartBoundary--ieWRaGbFjvWn4NGm3n6ehHDa1Fm9PuiUsTKBuKGjuN----
+Content-Type: image/png
+Content-Transfer-Encoding: binary
+Content-Location: https://ssl.gstatic.com/docs/common/mobileweb_sprite1.png
+
+âPNG
+
+   IHDR   $   ú   ô	Ä  	UIDAThﬁÌ[[lW˛ŒôŸõ«nù∏8Ik'm\ö*V“EBj∏51/T¢5⁄P•†ZÂ&—áJ·	Ñ*cÇh§ ‹ÄÄBõÚ¬Â)I+îìÊ!†ÜÑXNH”brÒ:ÔÆwÊ¸<ÏmvvŒÃ9«ìx#ˆè6û=s˚Êˇ˛ˇ?Á|{h2ca;á~ˇΩ˛i7◊GBTèDTŸvI‘∂ßzﬁ∆ˆèl ≈
+hÛÔæΩ„b~f Ñ“Ωâ*[•∂
+>*>ªzÀÖ€¶ªzû,Ë‚≤Û3?0u˙≤∂%K/›ö=±sl,  ùÔòXGf—™‰⁄éÍÇí"™ÅÒ“‘∑UË
+≤L*›üπ∑˝∞(9 œ?/ò(áëœ•…db}€ΩÌáTAq(‹¿& c~≥ˆ@ÚûÃ∏
+(Æ$LáDÉ«“©Ù:ª?slxt4eHY˝'L];ˇòöé©tzMÁ∆Œ…Ìc;•û≤#)Û˘ ä>b¿¡s«{SSËL.#Ç®T<∆@†ÂóS˘c Ó“$ÿTæ±À	«ù)Ï9∞ú0*e,•öOk¥=DíDAiÔ?ñ3àÃb‡é'_	 OåP&˜^`–W⁄XÈ?—nÅf0«[◊ò> 2†P_"cÅÂ‡T¸dà"©$ç`i6' WjîE≈íF≠	V*4Æ†  ‡ì+7I˚æ œÓ;Ûf˝ı,òRlﬂxL´◊ﬂwÊMœ√ï=f13 dt˝b‚ ˆûzΩ˙˝ÖM€ ﬂ©Í°Ì}b˚Í-ç`"@õ2 ò)Êq.w©JQ¡- ﬁôΩX=Ór1/c‘aOÚÃ⁄≠xfÌ÷ÜˆÔ
+x Ωû≠”èUÏÁßbÔƒ¡Í˛ë˚ü¯˙¯Xıº'Wo¡}ÜfÂºÎPÂb3≈\=~ *«»kULi_±·˛mÓﬂ÷pÏIe≤Îå=$∑Ωß‡•S5 ~∏È ÄØçˇ¨zÃÁ≤ÃS0McHˆ§^ ‡°Ï‹Ï≈Z&:9≠	¡¸([ª√k∑5¥ü|¯«°±8Ø¥ó=ÀÆ˛I¯$;©=®e?:˛áHoFy≈,ÀF≤XQcC°7 aóñNÉÑ#≤Q3ZøGH:ß£˙È9—%m@	ÿ√äƒ¶™è8ÙU#¡™˚'èı⁄ñ’KÇòN‡{≈´∫vF¬±01ÛïﬂúFÀÆá∆¯¸ØÛ˝”≥N,PcºT^ñ>z_€˛°Õ<^çÒKªØÓ»òGcÙ§5yõÍ€â›g_∏”IˆÚ¯4∆È9f¶1·÷≈|ÈY˚⁄â±±…¯4FFÛ”ó,N≠¢ï›GuA)jåUX°õ…d˝º˜ˆ√:†î´∫õí∫8A$lkΩµÍ∂C™†¢5∆ 0‘'Ö µSˆ [Ÿ=Æä+	Ñ√ç≠âtbù≥bŸ±——ìfcPg%„˚˛ØwÊì°-ì\c≠Ìô‹‚)m¡*
+¿Ò÷È"Œ˝Á<⁄”%i™∫è1 l˘ïB Dc™1ñµ(‚ﬁÀ/¬ôÛ3s˘íbÊŒôâ∆4 „ C≤£≈kW!úBUÙde•6Vçú‚—√ $∑£ò∑ ú9•iæ˙òö¬ÎMX\Ÿ©\∆AN1BaÛ©>ï˛ŸO¶ \'¥;2£LVá(\ïÂv" ]LeÉŸ6 \ƒñeø| ’ÍıávÛ∆$`ñ©`’hØΩ≈’ Ç)Ã…ÙgÆºzÑEN©2’Ëˇå≥ÏW_V£¨nh∑ß∆ÿh˚ép…~`·µ*û,#ºrDvÏN¬jU,b√ÀO-a‚—-≠ß∂S‘T?õ¢®ÎÃ+®%ˆ ﬂòqw2Øíù˘Ú”—Yˆ»ãñ<÷#jëe\˝(‹É±Pˆ€ TºbC§1ˇBD¨P1§<É&Õ è∏x»‹ûeUßGçcH∂‡¿@cd≈¬p√Õ	c#ê†‘g≈93çÒ#;≥Ω∞ù^K@Kct$„ ¨π‘ƒÎﬂø••1∂¨©Ì Æi0yOÜÔZh@œî§ëÖÚÃ„ÂÌÁ}Ä..M.Ä'|†f|ÏFÇÙ≈å‘s∆ÍÒMìÃÇ–¥ÌfìkÅi0[o&0ø—È›T`–l` Û–B'ö
+LÀZfb°S‰¸·¡~ß8›«XÌ'7"œÍlÔ∂[S÷⁄“ﬁœ7èƒªˆ„ÍÅı;ò3µßA6 ˇØ˘ıÌÇÄƒ˚øx·ﬂgWÙ‹5¯l|k?X·øFk?H <≥tÈÌwº{‚@».⁄Ä`Qg§∫bÈdÁ™ÅMÏ®.(]#·£%@ëËm©TˇÜ¨√ì† ˘¡DÆpÙy*±æÎÉâC™û‚—AA`¢÷À¯ËKÅÅ˚Ÿ∏äß∏ê0A+>Ö”p^[:πnŸ∆‚±?éßb†,
+LÌ/c@·“±¿+&3ã÷lﬁíû<0∂]Í)·úÇøKhd œˇ¶ŒVWmI7+Ìc\,øª˚≤˛⁄)êê¨ï<d[.“Ù6f≥NÆ¥•≤‚ì	ÁXc‡!˘M£⁄‚ O$∫ÄπÀÄ[`uûa/+{ÉBºVæ)+ıKÈBÒAôJBÜ˝<Eˇµ€néPJ>„Á›ÆP*?Z/0«p≈πu|‘æ¨≤UB)Å]˘+ê˝Kç∆î 8s„Úƒ›?¨åZó+r`áÔ¨ªûe√M≤‘∂2ÍCû©ˇy∏|MfS&9—ΩÊÃÑüi/¨%⁄ù≥fPó'ΩªÏÏ«’Ω¬µÚ[=ﬂå»¬X≤Ã?VÚ/$ 5Íc•,àb1ùØáÍﬁHàÍB¬ˆSÃÔó»øˆEΩª°ÿ+5@Ô{
+Ë˛4(‰≤:Ω¶]©<«€A…vùìî„RcƒX˛àº˙,T‰"˙ª*5?˛9P˚µæLFÿÃ!≠…Äe,˚Xˆçx#ÚÃ—ıf(∂iíuæ—uÈ:dô˙@No¶.6≤°Ûµ¿yv-u5à‰BÌáS‡√7§± ∫E√˜À≤Ø¶zÙÇ≈≥ˆÉÑ+l`‚ñœ‡tK+lYÀ$ˆùÚßi¿Ä"Ä{ö	Ãßö	Ã#-00è6ßô¿ò~Êe7ây)jÅjÅ˙ u›:W[  o∑Fb-kV˚ù`ac%`    IENDÆB`Ç
+------MultipartBoundary--ieWRaGbFjvWn4NGm3n6ehHDa1Fm9PuiUsTKBuKGjuN----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: cid:css-a5432606-c3fb-4493-950f-69306ef7dc70@mhtml.blink
+
+@charset "utf-8";
+
+ul.lst-kix_r5x6ky768q7v-1 { list-style-type: none; }
+
+ul.lst-kix_r5x6ky768q7v-2 { list-style-type: none; }
+
+ul.lst-kix_r5x6ky768q7v-0 { list-style-type: none; }
+
+ol.lst-kix_sbduhyc1sqd-0.start { counter-reset: lst-ctn-kix_sbduhyc1sqd-0 0; }
+
+.lst-kix_at5295iki1w5-4 > li { counter-increment: lst-ctn-kix_at5295iki1w5-4 1; }
+
+.lst-kix_c3rkj0gzbyq3-1 > li { counter-increment: lst-ctn-kix_c3rkj0gzbyq3-1 1; }
+
+ul.lst-kix_r5x6ky768q7v-7 { list-style-type: none; }
+
+ol.lst-kix_c3rkj0gzbyq3-8.start { counter-reset: lst-ctn-kix_c3rkj0gzbyq3-8 0; }
+
+ul.lst-kix_r5x6ky768q7v-8 { list-style-type: none; }
+
+ul.lst-kix_r5x6ky768q7v-5 { list-style-type: none; }
+
+ul.lst-kix_r5x6ky768q7v-6 { list-style-type: none; }
+
+ul.lst-kix_r5x6ky768q7v-3 { list-style-type: none; }
+
+ul.lst-kix_r5x6ky768q7v-4 { list-style-type: none; }
+
+.lst-kix_c3rkj0gzbyq3-7 > li::before { content: "" counter(lst-ctn-kix_c3rkj0gzbyq3-7, lower-latin) ". "; }
+
+.lst-kix_6qbr5lh0u94d-5 > li::before { content: "‚ñ†  "; }
+
+.lst-kix_at5295iki1w5-3 > li { counter-increment: lst-ctn-kix_at5295iki1w5-3 1; }
+
+.lst-kix_6qbr5lh0u94d-4 > li::before { content: "‚óã  "; }
+
+.lst-kix_6qbr5lh0u94d-6 > li::before { content: "‚óè  "; }
+
+.lst-kix_c3rkj0gzbyq3-8 > li::before { content: "" counter(lst-ctn-kix_c3rkj0gzbyq3-8, lower-roman) ". "; }
+
+.lst-kix_sbduhyc1sqd-3 > li { counter-increment: lst-ctn-kix_sbduhyc1sqd-3 1; }
+
+.lst-kix_6qbr5lh0u94d-8 > li::before { content: "‚ñ†  "; }
+
+.lst-kix_6qbr5lh0u94d-7 > li::before { content: "‚óã  "; }
+
+ol.lst-kix_at5295iki1w5-7.start { counter-reset: lst-ctn-kix_at5295iki1w5-7 0; }
+
+ol.lst-kix_c3rkj0gzbyq3-0.start { counter-reset: lst-ctn-kix_c3rkj0gzbyq3-0 0; }
+
+.lst-kix_sbduhyc1sqd-4 > li { counter-increment: lst-ctn-kix_sbduhyc1sqd-4 1; }
+
+.lst-kix_r5x6ky768q7v-1 > li::before { content: "‚óã  "; }
+
+.lst-kix_6qbr5lh0u94d-2 > li::before { content: "‚ñ†  "; }
+
+.lst-kix_r5x6ky768q7v-0 > li::before { content: "‚óè  "; }
+
+.lst-kix_6qbr5lh0u94d-3 > li::before { content: "‚óè  "; }
+
+.lst-kix_sbduhyc1sqd-1 > li { counter-increment: lst-ctn-kix_sbduhyc1sqd-1 1; }
+
+.lst-kix_at5295iki1w5-6 > li { counter-increment: lst-ctn-kix_at5295iki1w5-6 1; }
+
+ol.lst-kix_sbduhyc1sqd-3.start { counter-reset: lst-ctn-kix_sbduhyc1sqd-3 0; }
+
+.lst-kix_6qbr5lh0u94d-1 > li::before { content: "‚óã  "; }
+
+.lst-kix_c3rkj0gzbyq3-0 > li { counter-increment: lst-ctn-kix_c3rkj0gzbyq3-0 1; }
+
+.lst-kix_6qbr5lh0u94d-0 > li::before { content: "‚óè  "; }
+
+.lst-kix_c3rkj0gzbyq3-3 > li { counter-increment: lst-ctn-kix_c3rkj0gzbyq3-3 1; }
+
+ol.lst-kix_sbduhyc1sqd-6.start { counter-reset: lst-ctn-kix_sbduhyc1sqd-6 0; }
+
+ol.lst-kix_c3rkj0gzbyq3-6.start { counter-reset: lst-ctn-kix_c3rkj0gzbyq3-6 0; }
+
+.lst-kix_at5295iki1w5-1 > li { counter-increment: lst-ctn-kix_at5295iki1w5-1 1; }
+
+.lst-kix_sbduhyc1sqd-6 > li::before { content: "" counter(lst-ctn-kix_sbduhyc1sqd-6) ". "; }
+
+.lst-kix_sbduhyc1sqd-7 > li::before { content: "" counter(lst-ctn-kix_sbduhyc1sqd-7, lower-latin) ". "; }
+
+ol.lst-kix_sbduhyc1sqd-2.start { counter-reset: lst-ctn-kix_sbduhyc1sqd-2 0; }
+
+.lst-kix_at5295iki1w5-0 > li { counter-increment: lst-ctn-kix_at5295iki1w5-0 1; }
+
+.lst-kix_sbduhyc1sqd-8 > li::before { content: "" counter(lst-ctn-kix_sbduhyc1sqd-8, lower-roman) ". "; }
+
+ol.lst-kix_at5295iki1w5-2.start { counter-reset: lst-ctn-kix_at5295iki1w5-2 0; }
+
+.lst-kix_sbduhyc1sqd-4 > li::before { content: "" counter(lst-ctn-kix_sbduhyc1sqd-4, lower-latin) ". "; }
+
+.lst-kix_sbduhyc1sqd-5 > li::before { content: "" counter(lst-ctn-kix_sbduhyc1sqd-5, lower-roman) ". "; }
+
+.lst-kix_c3rkj0gzbyq3-5 > li { counter-increment: lst-ctn-kix_c3rkj0gzbyq3-5 1; }
+
+.lst-kix_at5295iki1w5-1 > li::before { content: "" counter(lst-ctn-kix_at5295iki1w5-1, lower-latin) ". "; }
+
+.lst-kix_at5295iki1w5-2 > li::before { content: "" counter(lst-ctn-kix_at5295iki1w5-2, lower-roman) ". "; }
+
+.lst-kix_at5295iki1w5-0 > li::before { content: "" counter(lst-ctn-kix_at5295iki1w5-0) ". "; }
+
+.lst-kix_at5295iki1w5-7 > li { counter-increment: lst-ctn-kix_at5295iki1w5-7 1; }
+
+ol.lst-kix_c3rkj0gzbyq3-3 { list-style-type: none; }
+
+.lst-kix_at5295iki1w5-5 > li::before { content: "" counter(lst-ctn-kix_at5295iki1w5-5, lower-roman) ". "; }
+
+.lst-kix_at5295iki1w5-6 > li::before { content: "" counter(lst-ctn-kix_at5295iki1w5-6) ". "; }
+
+ol.lst-kix_c3rkj0gzbyq3-2 { list-style-type: none; }
+
+ol.lst-kix_c3rkj0gzbyq3-1 { list-style-type: none; }
+
+ol.lst-kix_c3rkj0gzbyq3-0 { list-style-type: none; }
+
+.lst-kix_at5295iki1w5-3 > li::before { content: "" counter(lst-ctn-kix_at5295iki1w5-3) ". "; }
+
+.lst-kix_at5295iki1w5-7 > li::before { content: "" counter(lst-ctn-kix_at5295iki1w5-7, lower-latin) ". "; }
+
+ol.lst-kix_c3rkj0gzbyq3-5.start { counter-reset: lst-ctn-kix_c3rkj0gzbyq3-5 0; }
+
+.lst-kix_sbduhyc1sqd-0 > li::before { content: "" counter(lst-ctn-kix_sbduhyc1sqd-0, upper-latin) ". "; }
+
+.lst-kix_sbduhyc1sqd-1 > li::before { content: "" counter(lst-ctn-kix_sbduhyc1sqd-1, lower-latin) ". "; }
+
+.lst-kix_sbduhyc1sqd-2 > li::before { content: "" counter(lst-ctn-kix_sbduhyc1sqd-2, lower-roman) ". "; }
+
+.lst-kix_sbduhyc1sqd-3 > li::before { content: "" counter(lst-ctn-kix_sbduhyc1sqd-3) ". "; }
+
+ol.lst-kix_c3rkj0gzbyq3-8 { list-style-type: none; }
+
+.lst-kix_c3rkj0gzbyq3-2 > li { counter-increment: lst-ctn-kix_c3rkj0gzbyq3-2 1; }
+
+ol.lst-kix_c3rkj0gzbyq3-7 { list-style-type: none; }
+
+.lst-kix_at5295iki1w5-4 > li::before { content: "" counter(lst-ctn-kix_at5295iki1w5-4, lower-latin) ". "; }
+
+ol.lst-kix_c3rkj0gzbyq3-6 { list-style-type: none; }
+
+ol.lst-kix_c3rkj0gzbyq3-5 { list-style-type: none; }
+
+ol.lst-kix_sbduhyc1sqd-8.start { counter-reset: lst-ctn-kix_sbduhyc1sqd-8 0; }
+
+ol.lst-kix_c3rkj0gzbyq3-4 { list-style-type: none; }
+
+ol.lst-kix_at5295iki1w5-1.start { counter-reset: lst-ctn-kix_at5295iki1w5-1 0; }
+
+ol.lst-kix_at5295iki1w5-8.start { counter-reset: lst-ctn-kix_at5295iki1w5-8 0; }
+
+.lst-kix_sbduhyc1sqd-5 > li { counter-increment: lst-ctn-kix_sbduhyc1sqd-5 1; }
+
+.lst-kix_sbduhyc1sqd-8 > li { counter-increment: lst-ctn-kix_sbduhyc1sqd-8 1; }
+
+ol.lst-kix_sbduhyc1sqd-1.start { counter-reset: lst-ctn-kix_sbduhyc1sqd-1 0; }
+
+.lst-kix_sbduhyc1sqd-2 > li { counter-increment: lst-ctn-kix_sbduhyc1sqd-2 1; }
+
+.lst-kix_at5295iki1w5-8 > li::before { content: "" counter(lst-ctn-kix_at5295iki1w5-8, lower-roman) ". "; }
+
+ol.lst-kix_c3rkj0gzbyq3-1.start { counter-reset: lst-ctn-kix_c3rkj0gzbyq3-1 0; }
+
+ul.lst-kix_myptahfml1j1-4 { list-style-type: none; }
+
+ul.lst-kix_myptahfml1j1-3 { list-style-type: none; }
+
+ul.lst-kix_myptahfml1j1-6 { list-style-type: none; }
+
+ol.lst-kix_at5295iki1w5-0.start { counter-reset: lst-ctn-kix_at5295iki1w5-0 0; }
+
+ul.lst-kix_myptahfml1j1-5 { list-style-type: none; }
+
+ul.lst-kix_myptahfml1j1-0 { list-style-type: none; }
+
+ol.lst-kix_c3rkj0gzbyq3-4.start { counter-reset: lst-ctn-kix_c3rkj0gzbyq3-4 0; }
+
+.lst-kix_c3rkj0gzbyq3-7 > li { counter-increment: lst-ctn-kix_c3rkj0gzbyq3-7 1; }
+
+ul.lst-kix_myptahfml1j1-2 { list-style-type: none; }
+
+ul.lst-kix_myptahfml1j1-1 { list-style-type: none; }
+
+ul.lst-kix_myptahfml1j1-8 { list-style-type: none; }
+
+ul.lst-kix_myptahfml1j1-7 { list-style-type: none; }
+
+ol.lst-kix_sbduhyc1sqd-7.start { counter-reset: lst-ctn-kix_sbduhyc1sqd-7 0; }
+
+.lst-kix_c3rkj0gzbyq3-8 > li { counter-increment: lst-ctn-kix_c3rkj0gzbyq3-8 1; }
+
+.lst-kix_sbduhyc1sqd-7 > li { counter-increment: lst-ctn-kix_sbduhyc1sqd-7 1; }
+
+ol.lst-kix_at5295iki1w5-6.start { counter-reset: lst-ctn-kix_at5295iki1w5-6 0; }
+
+ol.lst-kix_at5295iki1w5-3.start { counter-reset: lst-ctn-kix_at5295iki1w5-3 0; }
+
+ol.lst-kix_c3rkj0gzbyq3-7.start { counter-reset: lst-ctn-kix_c3rkj0gzbyq3-7 0; }
+
+.lst-kix_c3rkj0gzbyq3-6 > li { counter-increment: lst-ctn-kix_c3rkj0gzbyq3-6 1; }
+
+.lst-kix_c3rkj0gzbyq3-4 > li { counter-increment: lst-ctn-kix_c3rkj0gzbyq3-4 1; }
+
+.lst-kix_myptahfml1j1-5 > li::before { content: "‚ñ†  "; }
+
+.lst-kix_myptahfml1j1-7 > li::before { content: "‚óã  "; }
+
+ol.lst-kix_at5295iki1w5-1 { list-style-type: none; }
+
+ol.lst-kix_at5295iki1w5-2 { list-style-type: none; }
+
+ol.lst-kix_sbduhyc1sqd-5.start { counter-reset: lst-ctn-kix_sbduhyc1sqd-5 0; }
+
+ol.lst-kix_at5295iki1w5-0 { list-style-type: none; }
+
+.lst-kix_myptahfml1j1-4 > li::before { content: "‚óã  "; }
+
+.lst-kix_myptahfml1j1-8 > li::before { content: "‚ñ†  "; }
+
+.lst-kix_myptahfml1j1-3 > li::before { content: "‚óè  "; }
+
+.lst-kix_r5x6ky768q7v-8 > li::before { content: "‚ñ†  "; }
+
+ul.lst-kix_6qbr5lh0u94d-2 { list-style-type: none; }
+
+ul.lst-kix_6qbr5lh0u94d-1 { list-style-type: none; }
+
+ul.lst-kix_6qbr5lh0u94d-0 { list-style-type: none; }
+
+.lst-kix_myptahfml1j1-2 > li::before { content: "‚ñ†  "; }
+
+ol.lst-kix_at5295iki1w5-5.start { counter-reset: lst-ctn-kix_at5295iki1w5-5 0; }
+
+.lst-kix_r5x6ky768q7v-6 > li::before { content: "‚óè  "; }
+
+.lst-kix_sbduhyc1sqd-6 > li { counter-increment: lst-ctn-kix_sbduhyc1sqd-6 1; }
+
+.lst-kix_r5x6ky768q7v-5 > li::before { content: "‚ñ†  "; }
+
+.lst-kix_r5x6ky768q7v-7 > li::before { content: "‚óã  "; }
+
+.lst-kix_myptahfml1j1-1 > li::before { content: "‚óã  "; }
+
+.lst-kix_myptahfml1j1-0 > li::before { content: "‚óè  "; }
+
+ol.lst-kix_c3rkj0gzbyq3-3.start { counter-reset: lst-ctn-kix_c3rkj0gzbyq3-3 0; }
+
+ol.lst-kix_at5295iki1w5-5 { list-style-type: none; }
+
+.lst-kix_r5x6ky768q7v-2 > li::before { content: "‚ñ†  "; }
+
+ol.lst-kix_at5295iki1w5-6 { list-style-type: none; }
+
+ol.lst-kix_at5295iki1w5-3 { list-style-type: none; }
+
+.lst-kix_r5x6ky768q7v-3 > li::before { content: "‚óè  "; }
+
+ol.lst-kix_at5295iki1w5-4 { list-style-type: none; }
+
+.lst-kix_sbduhyc1sqd-0 > li { counter-increment: lst-ctn-kix_sbduhyc1sqd-0 1; }
+
+.lst-kix_r5x6ky768q7v-4 > li::before { content: "‚óã  "; }
+
+ol.lst-kix_at5295iki1w5-7 { list-style-type: none; }
+
+ol.lst-kix_at5295iki1w5-8 { list-style-type: none; }
+
+ol.lst-kix_sbduhyc1sqd-8 { list-style-type: none; }
+
+ol.lst-kix_sbduhyc1sqd-7 { list-style-type: none; }
+
+.lst-kix_at5295iki1w5-8 > li { counter-increment: lst-ctn-kix_at5295iki1w5-8 1; }
+
+ol.lst-kix_sbduhyc1sqd-6 { list-style-type: none; }
+
+ol.lst-kix_at5295iki1w5-4.start { counter-reset: lst-ctn-kix_at5295iki1w5-4 0; }
+
+.lst-kix_c3rkj0gzbyq3-0 > li::before { content: "" counter(lst-ctn-kix_c3rkj0gzbyq3-0) ". "; }
+
+ol.lst-kix_sbduhyc1sqd-5 { list-style-type: none; }
+
+ol.lst-kix_sbduhyc1sqd-4 { list-style-type: none; }
+
+ol.lst-kix_sbduhyc1sqd-3 { list-style-type: none; }
+
+ol.lst-kix_sbduhyc1sqd-2 { list-style-type: none; }
+
+ol.lst-kix_sbduhyc1sqd-4.start { counter-reset: lst-ctn-kix_sbduhyc1sqd-4 0; }
+
+ol.lst-kix_sbduhyc1sqd-1 { list-style-type: none; }
+
+ol.lst-kix_sbduhyc1sqd-0 { list-style-type: none; }
+
+.lst-kix_c3rkj0gzbyq3-5 > li::before { content: "" counter(lst-ctn-kix_c3rkj0gzbyq3-5, lower-roman) ". "; }
+
+.lst-kix_c3rkj0gzbyq3-6 > li::before { content: "" counter(lst-ctn-kix_c3rkj0gzbyq3-6) ". "; }
+
+ul.lst-kix_6qbr5lh0u94d-6 { list-style-type: none; }
+
+ul.lst-kix_6qbr5lh0u94d-5 { list-style-type: none; }
+
+ul.lst-kix_6qbr5lh0u94d-4 { list-style-type: none; }
+
+ul.lst-kix_6qbr5lh0u94d-3 { list-style-type: none; }
+
+.lst-kix_c3rkj0gzbyq3-4 > li::before { content: "" counter(lst-ctn-kix_c3rkj0gzbyq3-4, lower-latin) ". "; }
+
+ul.lst-kix_6qbr5lh0u94d-8 { list-style-type: none; }
+
+ul.lst-kix_6qbr5lh0u94d-7 { list-style-type: none; }
+
+.lst-kix_at5295iki1w5-2 > li { counter-increment: lst-ctn-kix_at5295iki1w5-2 1; }
+
+.lst-kix_c3rkj0gzbyq3-3 > li::before { content: "" counter(lst-ctn-kix_c3rkj0gzbyq3-3) ". "; }
+
+.lst-kix_at5295iki1w5-5 > li { counter-increment: lst-ctn-kix_at5295iki1w5-5 1; }
+
+.lst-kix_c3rkj0gzbyq3-1 > li::before { content: "" counter(lst-ctn-kix_c3rkj0gzbyq3-1, lower-latin) ". "; }
+
+ol.lst-kix_c3rkj0gzbyq3-2.start { counter-reset: lst-ctn-kix_c3rkj0gzbyq3-2 0; }
+
+.lst-kix_c3rkj0gzbyq3-2 > li::before { content: "" counter(lst-ctn-kix_c3rkj0gzbyq3-2, lower-roman) ". "; }
+
+.lst-kix_myptahfml1j1-6 > li::before { content: "‚óè  "; }
+------MultipartBoundary--ieWRaGbFjvWn4NGm3n6ehHDa1Fm9PuiUsTKBuKGjuN------
