@@ -19,7 +19,8 @@ def print_triangle(length):
 
 print_triangle(4)
 
-#partb
+#partb -------------------------------------------
+
 rows = int(input("Enter The Number Of Rows: "))
 columns = 2*rows -1
 i = 0
@@ -47,3 +48,6 @@ while i < rows:
         j+=1
     print(" ")
     i+=1
+
+
+   
