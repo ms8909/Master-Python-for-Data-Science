@@ -1,0 +1,85 @@
+/* CSS Reset */
+*{
+    margin: 0;
+    padding: 0;
+}
+body {
+    background-color: floralwhite;
+    color: #555555;
+    /* use css internal fonta*/
+    font-family: sans-serif;
+    font-size: 16px;
+    font-weight: normal;
+    line-height: 1.6em;
+    margin: 0;
+
+}
+
+.container{
+     height: auto;
+     width: 80%;
+     margin: 0;
+
+}
+a{
+
+    text-decoration:none;
+    color: #000;
+
+}
+a:hover{
+    color: red;
+}
+a:active{
+    color:green
+}
+
+.button{
+    background-color: #000;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    
+    border-radius:10px;
+}
+
+.button:hover{
+    background-color: #fff;
+    color: #fff;
+    border: 1px solid black; 
+}
+
+.box-1{
+    background-color: #333;
+    color: #fff;
+    border-right: 5px solid green;
+    border-left: 5px solid red;
+    border-top: 5px solid steelblue;
+    border-bottom: 5px solid wheat;
+    padding: 20px;
+    margin-top: 50px;
+}
+.box-1 h1{
+    font-family: sans-serif;
+    font-style: oblique;
+    font-weight: 800;
+    text-decoration: underline;
+    text-transform: uppercase;
+    letter-spacing: 0.2px;
+    word-spacing: 1em;
+   text-align: center;
+}
+
+.box-2{
+    background-color: yellow;
+    padding: 20px;
+    border-top: black;
+    border-left: blue;
+    border-right:black;
+    border-bottom:deepskyblue;
+    border-style: dotted;
+    margin: 20px;
+}
+.categories{
+    
+}
