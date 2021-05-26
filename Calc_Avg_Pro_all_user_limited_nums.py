@@ -1,4 +1,15 @@
+# ARHAM RUMI
+
 # Program to print Average and Product of all the entered numbers
+
+# Problem Statement
+
+# --------------------------------------------------------------------------------------
+# Write a program that takes integer inputs from the user until 
+# he/she presses q ( Ask to press q to quit after every integer input ). 
+# Print average and product of all numbers.
+# --------------------------------------------------------------------------------------
+
 
 print("Enter the integers to get their Average and Product")
 print("Enter q to Quit")

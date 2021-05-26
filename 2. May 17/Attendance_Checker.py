@@ -1,6 +1,22 @@
+# ARHAM RUMI
+
 # Program to check attendance
 
+# Problem Statement
+
+# --------------------------------------------------------------------------------------
+# student will not be allowed to sit in an exam if his/her attendance is less than 75%.
+# Write a program that takes the following input from a user
+# ● Number of classes held
+# ● Number of classes attended.
+# And prints
+# ● percentage of class attended
+# ● If a student is allowed to sit in the exam or not.
+# --------------------------------------------------------------------------------------
+
+
 name = input("Enter your name : ")
+
 print(f"Hi {name}! fill up the following info to sit in exam")
 print("")
 

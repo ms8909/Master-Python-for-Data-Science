@@ -1,4 +1,12 @@
+# ARHAM RUMI
+
 # Program to print the following pattern
+
+# Problem Statement
+
+# --------------------------------------------------------------------------------------
+# Print the following patterns using loop
+# --------------------------------------------------------------------------------------
 
 # *
 # **
