@@ -20,16 +20,16 @@ print("Sum of ascii values for", st, "is", ascii_sum(st))
 def ascii_sum_odd(s):
     sum=0
     for i in range(len(s)):
-        if i%2!=0:
+        if i%2==0:
             sum+=s[i]
     return sum
 
 
 #Part 3
 
-def ascii_sum_odd(s):
+def ascii_sum_even(s):
     sum=0
     for i in range(len(s)):
-        if i%2==0:
+        if i%2!=0:
             sum+=s[i]
     return sum
