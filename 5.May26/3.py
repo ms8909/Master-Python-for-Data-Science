@@ -37,6 +37,8 @@ def check(a):
 print()
 a=input("Enter A DNA String: ")
 
+# print(reverse(a))
+
 if(check(a)==True):
     print()
     complement(a)
