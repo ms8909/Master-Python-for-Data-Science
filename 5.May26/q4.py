@@ -28,4 +28,4 @@ def prime_factors(n):
     print("Prime Factors are: ",prime_factors [::-1])
 
 n = int(input("Enter any number: "))
-prime_factors(n)
+prime_factors(n)    
