@@ -1,5 +1,5 @@
 def substitution_cipher(message, offset):
-  temp_lst = list(map(lambda x: chr(ord(x) + offset), list(message)))
+  temp_lst = list(map(lambda x: chr(ord(x) + offset), message))
   return ''.join(temp_lst)
 
 message = input('Please enter your message: ')
