@@ -15,7 +15,7 @@ def dna_transformation(string):
   print(transformed_str)
 
 def dna_check(string, lst):
-  if all(elem in lst for elem in string.upper()):
+  if all(elem in lst for elem in string.upper()) and len(string):
     dna_transformation(string)
   else:
     print('Not a valid dna string')
@@ -24,4 +24,6 @@ dna_string = input('Please enter a DNA string = ')
 dna_component_lst = ['A','C','G','T']
 
 dna_check(dna_string, dna_component_lst)    
+
+
 
