@@ -35,9 +35,10 @@ st = input("Enter a DNA String : ")
 invalid=False
 for i in st:
     if i=='A' or i=='G' or i=='C' or i=='T':
-        print("reaching")
+        # print("reaching")
+        continue
     else:    
-        print("reaching 1")
+        # print("reaching 1")
         invalid=True
         break
 
