@@ -34,10 +34,14 @@ def complement(s):
 st = input("Enter a DNA String : ")
 invalid=False
 for i in st:
-    if i!='A' or i!='G' or i!='C' or i!='T':
-            invalid=True
-            break
-if invalid==True:
+    if i=='A' or i=='G' or i=='C' or i=='T':
+        print("reaching")
+    else:    
+        print("reaching 1")
+        invalid=True
+        break
+
+if invalid!=True:
     st=reverse(st)
     print(complement(st))
 else:
