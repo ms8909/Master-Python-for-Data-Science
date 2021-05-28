@@ -34,4 +34,8 @@ def complement(s):
     return complemented_list   
 
 a=reverse(my_list)
-print(complement(a))
+f=complement(a)
+e=""
+for i in f:
+    e=e+i
+print(e)  

@@ -2,14 +2,14 @@ print("Enter a string")
 s=input()
 y=len(s)   
     
-def ascii_sum(string):
+def ascii_sum(s):
     total_sum=0  
     for i in range(y):
         z=ord(s[i])
         total_sum=total_sum+z
     return(total_sum)     
 
-def ascii_sum_even(string):
+def ascii_sum_even(s):
     even_sum=0  
     for i in range(y):
         z=ord(s[i])
@@ -17,7 +17,7 @@ def ascii_sum_even(string):
             even_sum=even_sum+z
     return(even_sum) 
 
-def ascii_sum_odd(string):
+def ascii_sum_odd(s):
     odd_sum=0  
     for i in range(y):
         z=ord(s[i])
