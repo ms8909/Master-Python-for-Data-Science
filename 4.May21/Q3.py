@@ -1,7 +1,7 @@
 import random
 x = int(input("How many times would you like to roll the dice? - "))
 lucky = 0
-for i in range(x):
+for i in range(1,x+1):
     x = random.randint(1,6)
     y = random.randint(1,6)
     t = (x,y)
