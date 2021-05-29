@@ -10,4 +10,4 @@ def bubble_sort():
                 list[index + 1] = a1
             index = index +1
     return list
-print("Ascending Order of Array by Selection Sort is: ",bubble_sort())
+print("Ascending Order of Array by Bubble Sort is: ",bubble_sort())
