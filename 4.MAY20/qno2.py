@@ -1,13 +1,15 @@
-def flag(a,b,c,d):
-    for i in range(a):
-        print("*"*b)
-    for j in range(c):
-        print("*"*d)  
-flenght=int(input("flage lenght="))
-fwidth=int(input("flage width="))
+print("enter flag hight")
+i=int(input())
 
-plenght=int(input("pole lenght="))
-pwidth=int(input("pole width="))
-flag(flenght,fwidth,plenght,pwidth)
+print("enter flag width")
+j=int(input())
 
-    
+print("enter pole hight")
+k=int(input())
+
+print("enter pole width")
+l=int(input())
+for i in range(i):
+    print("*"*j)
+for k in range(k):
+    print("*"*l)
