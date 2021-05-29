@@ -1,19 +1,4 @@
-# print("Enter 'True' or  'False' ")
-# a=bool(input())
-# # print("Enter 'True' or  'False' ")
-# b=bool(input())
-# if a==0 and b == 0:
-#     return True
-#     print(xorgate1)
-# else:
-#     return false
-# # else:
-# #     print("XOR statement is 'true'")
 
-
-
-
-#XOR 
 
 
 def XOR():
