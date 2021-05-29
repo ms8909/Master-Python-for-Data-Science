@@ -15,7 +15,6 @@ def diceroll(NoT):
     print("You rolled lucky seven", LUCKY, "time(s)!")
 
 
-#main
 
 print("How many time would you like to roll the dice? ", end="")
 
@@ -24,3 +23,6 @@ x = int(input())
 #calling function
 
 diceroll(x)
+
+
+
