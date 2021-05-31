@@ -1,3 +1,6 @@
+def subtitution(x):
+  return chr(ord(x) + offset)
+
 def substitution_cipher(message, offset):
   temp_lst = list(map(lambda x: chr(ord(x) + offset), message))
   return ''.join(temp_lst)
