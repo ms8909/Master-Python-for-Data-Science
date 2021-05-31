@@ -1,13 +1,15 @@
-def flag(a,b,c,d):
-    for i in range(a):
-        print("*"*b)
-    for g in range(c):
-        print("*"*d)
+flong=4
+fwide=10
+plong=2
+pwide=4
 
+print(flong)
+print(fwide)
+print(plong)
+print(pwide)
 
-flong=int(input("how long is your flag:"))
-fwide=int(input("how wide is your flag:"))
+for i in range(flong):
+    print("*"*fwide)
 
-plong=int(input("how long is your flagpoles:"))
-pwide=int(input("how wide is your flagpoles:"))
-flag(flong,fwide,plong,pwide)
+for g in range(plong):
+    print("*"*pwide)
