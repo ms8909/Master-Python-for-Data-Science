@@ -6,14 +6,14 @@ def selection_sort(list):
 
   while not temp_bool:
     temp_num = list[count]
-    temp_index = None
+    temp_index = 0
 
     for i in range(count + 1, len(list)):
       if list[i] < temp_num:
         temp_num = list[i]
         temp_index = i
 
-    if count < 14 and temp_index:
+    if count < 14 and temp_index != 0:
       list[temp_index] = list[count]
       list[count] = temp_num
       count += 1
