@@ -71,7 +71,7 @@ a:active{
 }
 
 .box-2{
-    background-color: yellow;
+    background-color: #000;
     padding: 20px;
     border-top: black;
     border-left: blue;
@@ -81,5 +81,17 @@ a:active{
     margin: 20px;
 }
 .categories{
-    
+    border: 1px solid #ccc;
+    padding: 10px;
+    border-radius: 15px;
+}
+.categories h2{
+    text-transform: capitalize;
+    text-align: center;
+    text-emphasis-color: red;
+}
+.categories ul{
+    padding: 0px;
+    padding-left: 30px;
+    list-style: none;
 }
