@@ -65,7 +65,7 @@ git branch
 ```
 
 
-### To create a new branch
+### To create a new branch (Only need to do this first time)
 ```sh
 git checkout -b BRANCH-NAME
 ```
