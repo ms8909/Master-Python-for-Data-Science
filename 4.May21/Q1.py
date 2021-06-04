@@ -1,4 +1,4 @@
-a= int(input("Enter Number"))
+a = int(input("Enter Number"))
 def collatz_sequence(a):
     num_seq = [a]
     if a < 1:

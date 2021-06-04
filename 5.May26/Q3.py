@@ -12,7 +12,7 @@ for i in range(len(x)):
         my_list.append(x[i])
     else:
         print("It is not a valid string")
-def reverse(string):
+def reverse(s):
     reversed_list=[]
     for i in range(len(my_list)):
         reversed_list.append(my_list[len(my_list)-1-i])
