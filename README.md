@@ -9,6 +9,7 @@
 5. May 26 Questions Online link: https://docs.google.com/document/d/1S0R4HmcDzddYvPX2ZYUCUNiDDB2s1qmWcBZ4_dFIKxw/edit?usp=sharing
 6. May 28 Questions Online link: https://docs.google.com/document/d/1tHmlUnwIdP8fxmdwWte_q1O9QOtslKBF1ZSh41h3MtI/edit?usp=sharing
 7. May 31, June 4 Questions Online link: https://docs.google.com/document/d/1nsm0j8roYb70v7WDDGxaAkD_8oqbObLRD8uSdJDUXUw/edit?usp=sharing
+8. June 7 Questons Online link: https://docs.google.com/document/d/1mOzT5XjomtPtdmbAgZnSfjCn5YSoYAVO-Ia6gt971tw/edit?usp=sharing
 
 
 
