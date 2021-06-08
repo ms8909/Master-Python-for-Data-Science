@@ -2,15 +2,16 @@
 
 def Bubble_Sort(arr):
     a=len(arr)
-    for x in range(a):
-        for j in range (a-x-1):
+    for x in range(1,a): 
+        for j in range (a-x):
             if(arr[j]>arr[j+1]):
                 p=arr[j]
                 arr[j]=arr[j+1]
                 arr[j+1]=p
     return arr
+ 
 
 
-list=[1,5,67,2,43,6,4,2,2,4,6,2,1,68,5,4 ]
+list=[1,5,79,43,6]
 list=Bubble_Sort(list)
-print(list)
+print("Sorted => ",list)

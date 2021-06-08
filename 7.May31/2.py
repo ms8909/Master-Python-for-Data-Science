@@ -11,6 +11,6 @@ def Selection_Sort(arr):
     return arr
 
 
-list=[1,5,67,2,43,6,4,2,2,4,6,2,1,68,5,4 ]
+list=[1,5,67,2,1]
 list=Selection_Sort(list)
-print(list)
+print("Sorted => ",list)

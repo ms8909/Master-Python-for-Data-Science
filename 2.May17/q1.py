@@ -1,4 +1,5 @@
 #Calculator
+
 print("Number 1:")
 x=input()
 print("Number 2:")
