@@ -1,1 +1,43 @@
 # Data Science
+Data science is a multidisciplinary blend of data inference, algorithm development, and technology in order to solve analytically complex problems, extracting knowledge and insights from many structural and unstructured data.
+
+Data science is a “concept to unify statistics, data analysis and their related methods”. Data science deals with vast volumes of data using modern tools and techniques to find unseen patterns, derive meaningful information, and make business decisions.
+
+Data science lets you:
+
+    Find the leading cause of a problem by asking the right questions
+    Perform exploratory study on the data
+    Model the data using various algorithms
+    Communicate and visualize the results via graphs, dashboards, etc.
+
+## Some Important USE CASES where Data Science is needed to be applied
+
+# Product Recommendation
+On the analysis of user's previous data and interests Data science can be used to predict products that he / she may need
+
+# Company Market Value
+Sale data of a company can be analyzed over years to see the market value of company
+
+# Product Popularity
+Sale data and User Reviews about any specific product can be analyzed to track it's popularity within a specific region at any specific time
+
+# Hardware Predicitons
+Offline devices can be trained using machine learning algorithms to predict or to perform any specific task by analyzing user's previous data
+
+# Business Overview Dashboards
+Dashboards can be made to give the overview or even the business' insight for any specific time
+
+# Risk Management
+By analyzing any data, we can make precautions about any specific product or other software products and thus can reduce the risks of it's failure
+
+# Forecasting
+Forecasting, not only the weather but also for any business, product etc. can be made to graph it's expected future
+
+# Payment Time Prediction
+For example, if you are providing money on credit, then the probability of customers making future credit payments on time is a matter of concern for you. Here, you can build a model that can perform predictive analytics on the payment history of the customer to predict if the future payments will be on time or not. 
+
+# Airline Optimization
+With the help of data science, airlines can optimize operations in many ways, including: route planning, decide whether to schedule direct or connecting flights for more revenue, build predictive analytics models to forecast flight delays etc.
+
+# Cyber Security
+Data science and machine learning can be used to detect malwares or other malicious codes, and can detect and learn new methods of cybercrime, through data science.
