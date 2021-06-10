@@ -1,7 +1,7 @@
 list = []
 print("Enter Array Elements: ")
 def ind():
-    for i in range(2):
+    for i in range(16):
         a = int(input())
         list.append(a)
     print(list)
