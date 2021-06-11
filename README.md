@@ -11,6 +11,7 @@
 7. May 31, June 4 Questions Online link: https://docs.google.com/document/d/1nsm0j8roYb70v7WDDGxaAkD_8oqbObLRD8uSdJDUXUw/edit?usp=sharing
 8. June 7 Questons Online link: https://docs.google.com/document/d/1mOzT5XjomtPtdmbAgZnSfjCn5YSoYAVO-Ia6gt971tw/edit?usp=sharing
 9. June 9 TEST instructions: https://docs.google.com/document/d/16KeCB8MGg4xMg6jtmI0gJ45c4dJwOp4rn3DCe3GbH0w/edit?usp=sharing
+10. June 11 Hackerrank questions ( Go to Practice -> Problem Solving -> Algorithm ) [Solve first 5 questions]
 
 
 
