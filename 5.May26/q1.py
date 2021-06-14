@@ -1,7 +1,3 @@
-# user_name = 66
-
-# # for int in range(0, len(user_name)):
-# print(chr(user_name))
 
 # ascii_sum(s) function
 
