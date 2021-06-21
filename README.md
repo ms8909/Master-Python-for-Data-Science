@@ -16,7 +16,7 @@
 12. June 16 Hackerrank questions ( Go to Practice -> Problem Solving -> Algorithm )(https://www.hackerrank.com/domains/algorithms) [Solve first 13 questions] [Apple and Oranges, Number Line Jumps, Between two sets, Breaking the record, Subarray Division]
 13. June 18 Hackerrank questions ( Go to Practice -> Problem Solving -> Algorithm )(https://www.hackerrank.com/domains/algorithms) [Solve first 16 questions] [Divisible Sum Pairs, Migratory Birds, Day of the Programmer]
 14. June 21. Watch this video https://www.youtube.com/watch?v=BcfGWi8Qywk and fix your Linedin Profile.
-15. June 21 Hackerrank questions ( Go to Practice -> Problem Solving -> Algorithm )(https://www.hackerrank.com/domains/algorithms) [Solve first 16 questions] [Bill Division, Sales by Match, Drawing book, Counting Valleys, Electronics Shop]
+15. June 21 Hackerrank questions ( Go to Practice -> Problem Solving -> Algorithm )(https://www.hackerrank.com/domains/algorithms) [Solve first 21 questions] [Bill Division, Sales by Match, Drawing book, Counting Valleys, Electronics Shop]
 
 
 
