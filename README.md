@@ -83,7 +83,20 @@ git checkout -b BRANCH-NAME
 ```sh
 git checkout BRANCH-NAME
 ```
-
+### Create a folder with this format 
+```sh
+[folder number][date]
+```
+```sh
+2.June20
+```
+### Create a separate file for each question.
+```sh
+q1.py
+```
+```sh
+q2.py
+```
 
 ## To push your code on Github in your branch
 ```sh
