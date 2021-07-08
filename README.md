@@ -1,4 +1,4 @@
-# Batch-July-WebDev-Python
+# DevNation-BatchJuly-WebDev-Python
 
 ## Labs
 
