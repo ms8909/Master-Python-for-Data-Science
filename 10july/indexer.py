@@ -26,21 +26,21 @@ class Index:
 
     def add_msg_and_indexing(self,msg_2):
         self.add_msg(msg_2)
-        lineNo=self.total_msgs-1
-        self.indexing(msg_2,lineNo)
+        linenumber=self.total_msgs-1
+        self.indexing(msg_2,linenumber)
 
-    def indexing(self,msg_3,LineNo):
+    def indexing(self,msg_3,linenumber):
         arr=msg_3.split(' ')
         for i in range (len(arr)):
             j=0
             for key in self.index.keys():
                 if(arr[i]==key):
-                    self.index[key].append(LineNo)
+                    self.index[key].append(linenumber)
                     j=1
                     break
             if(j!=1):
                 self.index[arr[i]]=[]
-                self.index[arr[i]].append(LineNo) 
+                self.index[arr[i]].append(linenumber) 
 
     
     def search(self,term):
