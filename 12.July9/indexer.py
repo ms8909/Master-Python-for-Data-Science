@@ -47,7 +47,36 @@ obj.add_msg_and_indexing("she is a teacher")
 obj.add_msg_and_indexing("she is a good girl")
 obj.add_msg_and_indexing("who is she?")
 
+ans=obj.search("she")def indexing(self, msg_3, Line_No):
+      arr=msg_3.split(' ')
+      for i in range (len(arr)):
+         j=0
+         for key in self.index.keys():
+            if (arr[i]==key):
+               self.index[key].append(Line_No)
+               j=1
+               break
+         if (j!=1):
+            self.index[arr[i]]=[]
+            self.index[arr[i]].append(Line_No)
+      print(self.index)
+
+   def search(self, term):
+      msgs = []
+      for key in self.index.keys():
+         if (key==term):
+            for z in range(len(self.index[key])):
+               tup=(self.index[key[z]],self.msgs[self.index[key[z]]])
+               msgs.append(tup)
+      return msgs
+
+obj=Index("Hello")
+obj.add_msg_and_indexing("she is a girl")
+obj.add_msg_and_indexing("who is she")
+obj.add_msg_and_indexing("she is a teacher")
+
 ans=obj.search("she")
+print(ans)
 print(ans)
 
 
