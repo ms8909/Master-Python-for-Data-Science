@@ -30,16 +30,26 @@ class Index:
         self.indexing(msg_2,lineNo)
 
     def indexing(self,msg_3,LineNo):
-        self.index[LineNo]=msg_3
+        arr=msg_3.split(' ')
+        for i in range (len(arr)):
+            j=0
+            for key in self.index.keys():
+                if(arr[i]==key):
+                    self.index[key].append(LineNo)
+                    j=1
+                    break
+            if(j!=1):
+                self.index[arr[i]]=[]
+                self.index[arr[i]].append(LineNo) 
+
     
     def search(self,term):
         msgs=[]
-        for i in range(self.total_msgs):
-            arr=self.index[i].split()
-            for z in (arr):
-                if(z==term):
-                    msgs.append((i,self.index[i]))
-                    break
+        for key in self.index.keys():
+            if(key==term):
+                for z in range(len(self.index[key])):
+                    tup=(self.index[key][z],self.msgs[self.index[key][z]])
+                    msgs.append(tup)
         return msgs
 
         
@@ -47,9 +57,9 @@ class Index:
 
 obj=Index('Hello')
 
-obj.add_msg_and_indexing('I am here')
-obj.add_msg_and_indexing('I am a good boy ')
-obj.add_msg_and_indexing('yoo Man am?')
+obj.add_msg_and_indexing('What is this thing')
+obj.add_msg_and_indexing('who is who?')
 
-ans=obj.search('am')
+ans=obj.search('who')
+
 print(ans)
