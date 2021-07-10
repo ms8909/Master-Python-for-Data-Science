@@ -77,6 +77,6 @@ obj.add_msg_and_indexing("she is a teacher")
 
 ans=obj.search("she")
 print(ans)
-print(ans)
+
 
 
