@@ -1,63 +1,69 @@
+import pickle
+
 class Index:
-    def __init__(self,name):
-        self.name=name
-        self.msgs=[]
-        self.index={}
-        self.total_msgs=0
-        self.total_words=0
+    def __init__(self, name):
+        self.name = name
+        self.msgs = []
+        self.index = {}
+        self.total_msgs = 0
+        self.total_words = 0
 
     def get_total_words(self):
         return self.total_words
-    
-    def get_total_msgs(self):
+
+    def get_msg_size(self):
         return self.total_msgs
 
-    def get_msg(self,n):
+    def get_msg(self, n):
         return self.msgs[n]
 
-    def add_msg(self,msg):
-        self.msgs.append(msg)
+    # implement
+    def add_msg(self, m):
+        self.msgs.append(m)
         self.total_msgs+=1
-        arr=msg.split()
-        wordsCount=len(arr)
-        self.total_words+=wordsCount
 
-    def add_msg_and_indexing(self,msg_2):
-        self.add_msg(msg_2)
-        lineNo=self.total_msgs-1
-        self.indexing(msg_2,lineNo)
 
-    def indexing(self,msg_3,LineNo):
-        arr=msg_3.split(' ')
-        for i in range (len(arr)):
-            j=0
-            for key in self.index.keys():
-                if(arr[i]==key):
-                    self.index[key].append(LineNo)
-                    j=1
-                    break
-            if(j!=1):
-                self.index[arr[i]]=[]
-                self.index[arr[i]].append(LineNo) 
+    def add_msg_and_index(self, m):
+        self.add_msg(m)
+        line_at = self.total_msgs - 1
+        self.indexing(m, line_at)
 
-    
-    def search(self,term):
-        msgs=[]
-        for key in self.index.keys():
-            if(key==term):
-                for z in range(len(self.index[key])):
-                    tup=(self.index[key][z],self.msgs[self.index[key][z]])
-                    msgs.append(tup)
+    # implement
+    def indexing(self, m, line_at):
+        words_array = m.split(' ') ### For example : Input "Hello worlds this is" Output : ["Hello","worlds","this","is"]
+
+        for i in range(len(words_array)):
+            if words_array[i] not in self.index: ## self.index = {}
+                self.index[words_array[i]] = [] ## self.index["Hello"] = []
+                self.index[words_array[i]].append(line_at) ## [0]
+        return
+
+    ### {"hello",[0,1],"world",[1]}
+
+
+    # implement: query interface
+
+    def search(self, term):
+        indices = self.index[term]
+
+        msgs = []
+        for i in indices:
+            message = (self.msgs[int(i)])
+            line_num = i
+            temp_tuple = (line_num,message)
+
+        msgs.append(temp_tuple)
         return msgs
 
-        
 
 
-obj=Index('Hello')
 
-obj.add_msg_and_indexing('Where is Mohsin')
-obj.add_msg_and_indexing('who is who? Mohsin is here')
+if __name__ == "__main__":
 
-ans=obj.search('Mohsin')
+        name ="hassan"
+        obj = Index(name)
+        obj.add_msg_and_index("What is this thing called mohsin")
+        obj.add_msg_and_index("What is mohsin")
+        answer = obj.search("mohsin")
+        print(answer)
 
-print(ans)
