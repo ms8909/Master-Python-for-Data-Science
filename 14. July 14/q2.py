@@ -61,10 +61,12 @@ obj.add_msg_and_indexing('who is who?')
 ans=obj.search('who')
 print(ans)
 
+
+
 class PIndex(Index):
     def __init__(self, name):
         super().__init__(name)
-        roman_int_f = open('roman.txt.pk', 'rb')
+        roman_int_f = open('Python-Batch3/14. July 14/roman.txt.pk', 'rb')
         self.int2roman = pickle.load(roman_int_f)
         roman_int_f.close()
         self.load_poems()
@@ -72,10 +74,23 @@ class PIndex(Index):
         # Implement: 1) open the file for reading, then call
         # the base class's add_msg_and_index
     def load_poems(self):
-       return
+        lines= open("Python-Batch3/14. July 14/AllSonnets.txt",'r').readlines()
+        for line in lines:
+            self.add_msg_and_indexing(line)
 
         # Implement: p is an integer, get_poem(1) returns a list,
         # each item is one line of the 1st sonnet
     def get_poem(self, p):
         poem = []
+        for i in range(len(self.msgs)):
+            if self.msgs[i]==(self.int2roman[p]+".\n"):
+                self.update_array(i,poem,p)
         return poem
+    def update_array (self,i,poem,p):
+        while self.msgs[i]!=(self.int2roman[p+1]+".\n"):
+            poem.append(self.msgs[i])
+            i+=1
+
+obj2=PIndex("test")
+print(obj2.get_poem(15))  
+    
