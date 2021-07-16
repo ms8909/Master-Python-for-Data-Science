@@ -20,9 +20,10 @@ class PIndex(Q1.Index):
         self.load_poems()
 
         for i in range(len(self.msgs)):
-            if '{}.'.format(self.int2roman[p]) in self.msgs[i]:
+            if '{}.\n'.format(self.int2roman[p]) == self.msgs[i]:
+                print(self.msgs[i])
                 condition = 1
-            elif '{}.'.format(self.int2roman[p + 1]) in self.msgs[i]:
+            elif '{}.\n'.format(self.int2roman[p + 1]) == self.msgs[i]:
                 condition = 2
 
             if condition == 1:
