@@ -58,7 +58,6 @@ def mergeSort(l1,l,r):
     # In this way at the end, we will have a sorted array 
 
 
-
 list1= [1,5,67,2,43,6,4,2,2,4,6,2,1,68,5,4 ]
 
 n = len(list1)
