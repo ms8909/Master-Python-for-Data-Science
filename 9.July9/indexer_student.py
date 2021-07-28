@@ -23,7 +23,7 @@ class Index:
         
     def add_msg_and_index(self, m):
         self.add_msg(m)
-        line_at = self.total_msgs - 1
+        line_at = self.total_msgs + 1
         self.indexing(m, line_at)
 
     # implement
@@ -42,6 +42,13 @@ class Index:
     def search(self, term):
         msgs = []
         return msgs
+
+
+my_idx = Index('hahaha')
+my_idx.add_msg_and_index('what is this thing called?')
+
+
+
 
 #
 # Lab Marh 13
