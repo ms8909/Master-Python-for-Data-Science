@@ -1,0 +1,16 @@
+{
+    "folders": [
+		{
+			"path": "..\\..\\vs code\\HTML_CSS"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "..\\..\\vs code\\HTML_CSS\\restaurant-website-main\\restaurant-website-main"
+		}
+	],
+    "settings": {
+        "liveServer.settings.multiRootWorkspaceName": "HTML_CSS"
+    }
+}
